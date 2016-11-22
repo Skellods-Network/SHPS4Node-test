@@ -1,0 +1,20 @@
+{  
+  "name":"SHPS4Node-test",
+  "version":"0.1.0",
+  "description":"Test and coverage module of SHPS4Node",
+  "main":"index-test.js",
+  "homepage":"https://shps.io",
+  "author":{
+    "name":"Marco Alka",
+    "email":"me@marco-alka.de",
+    "url":"https://marco-alka.de"
+  },
+  "repository":{  
+    "type":"git",
+    "url":"https://github.com/Skellods-Network/SHPS4Node-test.git"
+  },
+  "dependencies":{
+    "node-mod-load":"3.x.x",
+    "tape":"4.x.x"
+  }
+}
